@@ -1,8 +1,8 @@
 # CafeKeeper
-A inventory management program.
+An inventory management program.
 
 ## Add and remove items
-The program utilizes a file base data storage. All items are written into a text file when closing, and then retrived at startup.
+The program utilizes a file base data storage. All items are written into a text file when closing, and then retrieved at startup.
 
 ## GUI
 The program displays the list of items in graphical user interface instead of command line.
